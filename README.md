@@ -3,7 +3,7 @@ Prisma
 </h1>
 
 <div width=100 align=center style="margin-bottom:10px">
-  <img src="./assets/icon.png" style="border-radius:20px" align=center width=80>
+  <img src="./assets/icon.png" border=1  align=center width=80 >
 </div>
 
 <p align=center style="">The Jawel of Information</p>
