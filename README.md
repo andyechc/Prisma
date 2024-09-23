@@ -13,6 +13,8 @@ Prisma
 ![Static Badge](https://img.shields.io/badge/Development-007722?style=flat&label=1.0.0&labelColor=black&link=reactnative.dev)
 ![Static Badge](https://img.shields.io/badge/React_Native-black?style=flat&logo=react&logoColor=blue&link=reactnative.dev)
 ![Static Badge](https://img.shields.io/badge/Expo-white?style=flat&logo=expo&logoColor=white&color=black&link=docs.expo.dev)
+![Static Badge](https://img.shields.io/badge/News_API-blue?style=flat&link=newsapi.org)
+
 
 
 </div>
