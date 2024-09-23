@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Prisma",
+    "slug": "prisma",
+    "version": "1.0.0",
+    "sdkVersion": "51.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "android": {
+      "package": "dev.andyec.prisma"
+    }
+  }
+}
