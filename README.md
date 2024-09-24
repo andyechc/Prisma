@@ -15,9 +15,9 @@ Prisma
 ![GitHub Repo stars](https://img.shields.io/github/stars/andyechc/prisma?style=social)
 
 
-![Static Badge](https://img.shields.io/badge/React_Native-black?style=flat&logo=react&logoColor=blue&link=reactnative.dev)
-![Static Badge](https://img.shields.io/badge/Expo-white?style=flat&logo=expo&logoColor=white&color=black&link=docs.expo.dev)
-![Static Badge](https://img.shields.io/badge/News_API-blue?style=flat&link=newsapi.org)
+![Static Badge](https://img.shields.io/badge/React_Native-black?style=flat&logo=react&logoColor=blue&link=https://reactnative.dev)
+![Static Badge](https://img.shields.io/badge/Expo-white?style=flat&logo=expo&logoColor=white&color=black&link=https://docs.expo.dev)
+![Static Badge](https://img.shields.io/badge/Meal_API-orange?style=flat&link=https://www.themealdb.com/)
 
 
 </div>
