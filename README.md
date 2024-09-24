@@ -6,7 +6,7 @@ Prisma
   <img src="./assets/icon.png" border=1  align=center width=80 >
 </div>
 
-<p align=center style="">The Jawel of Information</p>
+<p align=center style="">Discover your ideal recipe in our flavor prism.</p>
 
 <div align=center>
 
