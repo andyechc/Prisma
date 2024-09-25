@@ -6,7 +6,7 @@ Prisma
   <img src="./assets/icon.png" border=1  align=center width=80 >
 </div>
 
-<p align=center style="">Discover your ideal recipe in our flavor prism.</p>
+<p align=center style=""><i>Discover your ideal recipe in our flavor prism.</i></p>
 
 <div align=center>
 
@@ -28,8 +28,8 @@ Prisma es una aplicación móvil desarrollada con _React Native_ que ofrece una 
 
 **Características principales:**
 
-- **Fuentes confiables:** Acceda a noticias de una amplia variedad de fuentes confiables.
+- **Gran Contenido:** Acceda a mas de miles de recetas de manera rapida y directa.
 - **Interfaz intuitiva:** Navega fácilmente por las recetas con nuestra interfaz limpia y moderna.
 - **Modo oscuro:** Disfruta de una experiencia de lectura más cómoda en entornos con poca luz.
-- **Guardado de recetas:** Guarda recetas para leerlos más tarde.
+- **Guardado de recetas:** Guarda recetas para leerlas más tarde.
 
