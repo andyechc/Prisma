@@ -3,7 +3,7 @@ Prisma
 </h1>
 
 <div width=100 align=center style="margin-bottom:10px">
-  <img src="./assets/icon.png" border=1  align=center width=80 >
+  <img src="./assets/icon.png"  align=center width=180 style="border-radius:20px" >
 </div>
 
 <p align=center style=""><i>Discover your ideal recipe in our flavor prism.</i></p>
