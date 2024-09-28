@@ -4,12 +4,19 @@
     "slug": "prisma",
     "version": "1.0.0",
     "sdkVersion": "51.0.0",
+    "orientation": "potrait",
+    "icon": "./assets/icon.png",
+    "scheme": "prisma",
     "platforms": [
       "ios",
-      "android"
+      "android",
+      "web"
     ],
     "android": {
-      "package": "dev.andyec.prisma"
-    }
+      "package": "dev.andyechc.prisma"
+    },
+    "plugins": [
+      "expo-router"
+    ]
   }
 }

@@ -11,7 +11,7 @@ Prisma
 <div align=center>
 
 ![Static Badge](https://img.shields.io/badge/Development-007722?style=flat&label=1.0.0&labelColor=black&link=reactnative.dev)
-![GitHub Created At](https://img.shields.io/github/created-at/andyechc/prisma?style=flat&labelColor=black&color=purple)
+![GitHub Created At](https://img.shields.io/github/created-at/andyechc/prisma?style=flat&labelColor=black&color=ffbb00)
 ![GitHub Repo stars](https://img.shields.io/github/stars/andyechc/prisma?style=social)
 
 
